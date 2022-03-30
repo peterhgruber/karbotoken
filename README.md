@@ -1,2 +1,2 @@
-# karbotoken
-A crypto token to facilitate voluntary CO2 offsets and associated co-benefits in the SDG sphere
+# Karbotoken
+Karbotoken aims at creating a digital market infrastructure to increase the transparency and efficiency of the market for voluntary CO2 credits. Increased efficiency will open the CO2 market to new participants, both on the demand and supply sides. Beyond the obvious ecological benefits, the platform will enable the highlighting of co-benefits of individual offsetting projects in the SDG sphere.
